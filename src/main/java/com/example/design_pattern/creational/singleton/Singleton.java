@@ -1,4 +1,4 @@
-package com.example.design_pattern.creational;
+package com.example.design_pattern.creational.singleton;
 
 import lombok.Synchronized;
 
